@@ -92,11 +92,11 @@ body {
 #logoImage {
     float: right;
     margin: 15px;
-    border: 2px solid black;
+    border: 2px solid gold;
 }
 
 #logoImage:hover {
-    outline: 5px solid black;
+    outline: 5px solid gold;
 }
 
 #logoText {
