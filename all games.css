@@ -1,0 +1,110 @@
+body {
+    /* overflow: hidden; */
+    /* background-color: rgb(22, 22, 110); */
+    background-color: royalblue;
+}
+
+.row {
+    text-align: center;
+}
+
+.oneGame {
+    display: inline-block;
+    width: 250px;
+    height: 150px;
+    margin: 5px;
+    border: 3px solid grey;
+    /* box-shadow: 0px 0px 1px 5px grey; */
+}
+
+#Snake {
+    background-image: url(https://handsontek.net/images/Teams/Snake/hero.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#PingPong {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTNCBxqQnUxYJQ0MlU4UvruDdL-YzmnP3G-tA&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#Cactus {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRya9Z_n1Xk6gVWQ9ivyTbTQTklsX6hSSpLCvg5MflDow&usqp=CAU&ec=45690269);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#Ritter {
+    background-image: url(https://assets-esports.thescore.com/uploads/image/file/1671/cropped_Secret.jpg?ts=1429821325);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#jang {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTz-6ALy3HZ7BTUDKuoZJwL3B7DioAOwPm838wLNUvawg&usqp=CAU&ec=45690269);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#FarBy {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/RYB.png/250px-RYB.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#snake2 {
+    background-image: url(image/snakelogo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#memory {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTB0ZaHvNoOPsha7JbGlBkZZbMLiH2gRFo17d90B5wbRA&usqp=CAU&ec=45690269);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#adeilad {
+    background-image: url(https://previews.123rf.com/images/mansum007/mansum0071411/mansum007141100898/34240841-cartoon-building-tower.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#yashlatz {
+    background-image: url(https://i0.wp.com/yashlatznik.co.il/wp-content/uploads/2020/04/%D7%9C%D7%95%D7%92%D7%95-%D7%99%D7%A9%D7%9C%D7%A6.png?fit=624%2C392&ssl=1);
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+#buttonPage {
+    display: inline-block;
+    width: 900px;
+    height: 170px;
+    margin: 5px;
+    border: 2px solid black;
+    background-color: gold;
+    background: skyblue;
+    align-items: center;
+    justify-content: center;
+}
+
+#logoImage {
+    float: right;
+    margin: 15px;
+    border: 2px solid black;
+}
+
+#logoImage:hover {
+    outline: 5px solid black;
+}
+
+#logoText {
+    font-size: 30px;
+    font-family: 'Eater', cursive;
+}
+
+.oneGame:hover {
+    border: 3px solid gold;
+    outline: 5px solid gold;
+}
